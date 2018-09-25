@@ -1,5 +1,8 @@
 _repo: Tahtien-alla-Romaani_57209
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Talvio, Maila
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39128'
     url: http://www.gutenberg.org/2009/agents/39128
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57209#Tahtien-alla-Romaani
 gutenberg_issued: '2018-05-24'
 gutenberg_type: Text
 identifiers:
